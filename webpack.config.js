@@ -1,7 +1,7 @@
 const path = require('path');
 const webpack = require('webpack');
 
-const libraryName = 'noquery';
+const libraryName = 'noQuery';
 const outputFile = `${libraryName}.min.js`;
 
 
